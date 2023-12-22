@@ -1,2 +1,2 @@
-console.log("my work");
+console.log("haiqa kb sudhro gi");
 console.log("mern");
