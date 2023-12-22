@@ -1,2 +1,2 @@
-console.log("my work");
+console.log("haiqa paggal");
 console.log("mern");
